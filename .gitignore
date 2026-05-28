@@ -21,6 +21,15 @@ logs/
 *.mcap
 *.vrs
 
+# Private research notes and local prototypes
+ROADMAP.md
+docs/
+scripts/
+external/
+literature/
+experiments/
+assets/
+
 # System/editor
 .DS_Store
 .vscode/
