@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Data and generated artifacts
+data/hot3d/
+data/raw/
+data/processed/
+outputs/
+runs/
+logs/
+*.bag
+*.mcap
+*.vrs
+
+# System/editor
+.DS_Store
+.vscode/
+.idea/
